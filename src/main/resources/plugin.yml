@@ -1,0 +1,6 @@
+name: Discordlink
+version: '${project.version}'
+main: dev.gooch.discordlink.Discordlink
+api-version: 1.18
+authors: [ GucciGarrett ]
+website: craftyourtown.com

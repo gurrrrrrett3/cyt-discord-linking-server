@@ -4,3 +4,8 @@ main: dev.gooch.discordlink.Discordlink
 api-version: 1.18
 authors: [ GucciGarrett ]
 website: craftyourtown.com
+commands:
+  link:
+    permission: discordlink.link
+    usage: /link <code>
+    description: Link your Discord account to your Minecraft account.

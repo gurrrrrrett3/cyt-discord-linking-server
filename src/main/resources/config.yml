@@ -1,0 +1,10 @@
+#CYTDiscordLink
+#By gart
+
+
+#Prefix
+prefix: "[DiscordLink] "
+
+#Host of the discord bot webserver
+host: "http://localhost:6379"
+
